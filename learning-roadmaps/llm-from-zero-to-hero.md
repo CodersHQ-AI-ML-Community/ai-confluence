@@ -13,3 +13,9 @@
 - Understand the architecture of common neural networks used in NLP, such as Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, and Transformers
 - Practice implementing basic neural networks using frameworks like TensorFlow or PyTorch
 - Refer Playlist: https://www.youtube.com/playlist?list=PLv3UF7F3axVQt18QNRShqnW6oeT3_6RFD
+
+## Week 4-5: Transformer Architecture and Attention Mechanism
+
+- Dive deep into the Transformer architecture and its components
+- Understand the attention mechanism and its variants (e.g., self-attention, multi-head attention)
+- Implement a basic Transformer model and experiment with different hyperparameters
