@@ -21,7 +21,7 @@
 - Implement a basic Transformer model and experiment with different hyperparameters
 - Refer Playlists: https://www.youtube.com/playlist?list=PLv3UF7F3axVT65U8TAOjWJ8Cwp3kyclzt, https://youtu.be/rPFkX5fJdRY?list=PLTl9hO2Oobd9pHnY0tlxxoMHAGlNuJIdR
 
-## Week 7-10: Pre-training and Fine-tuning Techniques of Language Models
+## Week 7-10: Pre-training and Fine-tuning Techniques of Large Language Models
 
 - Learn about pre-training techniques like causal language modeling and masked language modeling
 - Understand the concept of transfer learning and fine-tuning pre-trained models for specific tasks
@@ -29,7 +29,7 @@
 - Learn how to build a large language model from scratch
 - Refer Playlists: https://www.youtube.com/playlist?list=PLxqBkZuBynVQaqvEwN-qAjkNAJ6NgyfcM, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=3142s&ab_channel=freeCodeCamp.org
 
-## Week 11-12: Tokenization and Subword Units:
+## Week 11: Tokenization and Subword Units:
 
 - Learn how model predicts the next tokens
 - Study different tokenization approaches, such as word-level, character-level, and subword tokenization.
