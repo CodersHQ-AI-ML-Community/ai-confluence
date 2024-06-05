@@ -1,2 +1,4 @@
 .DS_Store
 bin
+**/*__pycache__
+**/*.ipynb_checkpoints
