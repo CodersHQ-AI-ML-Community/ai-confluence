@@ -4,7 +4,11 @@ Here includes list of Machine Learning and Artificial Intelligence courses resou
 
 Stanford courses:
 
-Stanford CS109 Probability for Computer Scientists | 2022 https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&ab_channel=StanfordOnline
+Stanford CS109: Probability for Computer Scientists | 2022 https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&ab_channel=StanfordOnline
+
+Stanford CS231N: Deep Learning for Computer Vision | 2016 https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+
+Stanford CS231N: Deep Learning for Computer Vision | 2017 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 Stanford CS229: Machine Learning | Spring 2022 https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&ab_channel=StanfordOnline
 
